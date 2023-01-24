@@ -1,1 +1,0 @@
-# GoCorona_traning_project
